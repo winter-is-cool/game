@@ -8,12 +8,6 @@
 
  - Active/Alive
 
-## Hierarchical path
-
- - Skills/Spells/Other > Ability
-
-## Tags
-
 ---
 
 # Basic information

@@ -8,12 +8,6 @@
 
  - Active/Alive
 
-## Hierarchical path
-
- - Languages
-
-## Tags
-
 ---
 
 # Connections - World

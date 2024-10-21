@@ -6,10 +6,3 @@
 ## Status
 
  - Active/Alive
-
-## Hierarchical path
-
- - Characters
-
-## Tags
-
