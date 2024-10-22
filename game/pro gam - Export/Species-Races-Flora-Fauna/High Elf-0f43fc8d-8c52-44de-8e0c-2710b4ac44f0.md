@@ -1,0 +1,17 @@
+# High Elf
+
+## Document type
+
+ - Species/Race/Flora/Fauna
+
+## Status
+
+ - Active/Alive
+
+---
+
+# Basic information
+
+## Characters of Species/Races/Flora/Fauna
+
+ - Aleron
